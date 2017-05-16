@@ -9,6 +9,10 @@
 # production
 /build
 
+# styles
+*.css
+!src/toolbox/theme.css
+
 # misc
 .DS_Store
 .env
